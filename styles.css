@@ -104,5 +104,27 @@ color: rgb(155, 154, 154);
 }
 
 
-@media (max-w)
 
+@media (max-width: 900px) {
+  .container div:nth-child(18) {
+    font-size: 9rem;
+    width: 80%;
+  }
+  }
+
+@media (max-width: 768px) {
+  .container div:nth-child(18){
+    font-size: 7rem;
+    width: 70%;
+  }
+
+  }
+
+  @media (max-width: 448px) {
+    .container div:nth-child(18){
+      font-size: 2rem;
+      width: 50%;
+  
+    }
+
+  }
