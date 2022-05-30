@@ -108,14 +108,14 @@ color: rgb(155, 154, 154);
 @media (max-width: 900px) {
   .container div:nth-child(18) {
     font-size: 9rem;
-    width: 80%;
+    width: 50%;
   }
   }
 
 @media (max-width: 768px) {
   .container div:nth-child(18){
     font-size: 7rem;
-    width: 70%;
+    width: 50%;
   }
 
   }
