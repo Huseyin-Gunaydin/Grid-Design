@@ -85,7 +85,6 @@ color: rgb(155, 154, 154);
   grid-row: 6/7;
   grid-column: 1/2;
   font-size: 26px;
-  font-weight: bolder;
 }
 .container div:nth-child(17){
   grid-row: 6/7;
@@ -100,7 +99,10 @@ color: rgb(155, 154, 154);
   grid-column: 4/7;
   font-size: 12rem;
   color: red;
-  font-weight: 100px;
-
+  font-weight: 700;
+  width: 100%;
 }
+
+
+@media (max-w)
 
